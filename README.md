@@ -13,9 +13,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/fw210571](https://github.com/nanksi)
+- 👨‍💻 All of my projects are available at [https://github.com/nanksi](https://github.com/nanksi)
 
 - 📫 How to reach me **nandan.kumar.singh.3512@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13CAo9mHRKiwe4PG0KrggieO0AE_Ly1T1/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
